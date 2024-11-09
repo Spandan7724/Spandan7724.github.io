@@ -49,10 +49,10 @@
                 <span class="index">02</span>
                 <span class="label">Linkedin</span>
             </a>
-            <a class="link" href="assets/SPANDAN_CHAVAN.pdf" download>
+            <a class="link" href="https://github.com/Spandan7724" target="_blank">
                 <span class="anchor"></span>
                 <span class="index">03</span>
-                <span class="label">Resume</span>
+                <span class="label">Satellite</span>
             </a>
             <a class="link" href="https://github.com/Spandan7724" target="_blank">
                 <span class="anchor"></span>
@@ -67,6 +67,10 @@
         <i class="fa-solid fa-plus"></i>
         <i class="fa-solid fa-salad"></i>
     </div>
+    
+    <a id="source-link" class="meta-link" href="https://www.awwwards.com/inspiration/star-atlas-menu" target="_blank">
+        <i class="fa-solid fa-link"></i>
+        <span>Source</span>
     </a>
 </body>
 
